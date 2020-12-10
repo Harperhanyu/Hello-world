@@ -1,0 +1,12 @@
+D:\C#\WebAPI\API.Biz\bin\Debug\netcoreapp2.2\API.Biz.deps.json
+D:\C#\WebAPI\API.Biz\bin\Debug\netcoreapp2.2\API.Biz.dll
+D:\C#\WebAPI\API.Biz\bin\Debug\netcoreapp2.2\API.Biz.pdb
+D:\C#\WebAPI\API.Biz\bin\Debug\netcoreapp2.2\API.Store.dll
+D:\C#\WebAPI\API.Biz\bin\Debug\netcoreapp2.2\API.Store.pdb
+D:\C#\WebAPI\API.Biz\obj\Debug\netcoreapp2.2\API.Biz.csprojAssemblyReference.cache
+D:\C#\WebAPI\API.Biz\obj\Debug\netcoreapp2.2\API.Biz.csproj.CoreCompileInputs.cache
+D:\C#\WebAPI\API.Biz\obj\Debug\netcoreapp2.2\API.Biz.AssemblyInfoInputs.cache
+D:\C#\WebAPI\API.Biz\obj\Debug\netcoreapp2.2\API.Biz.AssemblyInfo.cs
+D:\C#\WebAPI\API.Biz\obj\Debug\netcoreapp2.2\API.Biz.csproj.CopyComplete
+D:\C#\WebAPI\API.Biz\obj\Debug\netcoreapp2.2\API.Biz.dll
+D:\C#\WebAPI\API.Biz\obj\Debug\netcoreapp2.2\API.Biz.pdb

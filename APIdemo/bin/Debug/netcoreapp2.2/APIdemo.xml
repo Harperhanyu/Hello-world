@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIdemo</name>
+    </assembly>
+    <members>
+        <member name="M:APIdemo.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            这是注释
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

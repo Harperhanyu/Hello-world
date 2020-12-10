@@ -1,0 +1,9 @@
+D:\C#\WebAPI\API.Store\bin\Debug\netcoreapp2.2\API.Store.deps.json
+D:\C#\WebAPI\API.Store\bin\Debug\netcoreapp2.2\API.Store.dll
+D:\C#\WebAPI\API.Store\obj\Debug\netcoreapp2.2\API.Store.csprojAssemblyReference.cache
+D:\C#\WebAPI\API.Store\obj\Debug\netcoreapp2.2\API.Store.csproj.CoreCompileInputs.cache
+D:\C#\WebAPI\API.Store\obj\Debug\netcoreapp2.2\API.Store.AssemblyInfoInputs.cache
+D:\C#\WebAPI\API.Store\obj\Debug\netcoreapp2.2\API.Store.AssemblyInfo.cs
+D:\C#\WebAPI\API.Store\bin\Debug\netcoreapp2.2\API.Store.pdb
+D:\C#\WebAPI\API.Store\obj\Debug\netcoreapp2.2\API.Store.dll
+D:\C#\WebAPI\API.Store\obj\Debug\netcoreapp2.2\API.Store.pdb
